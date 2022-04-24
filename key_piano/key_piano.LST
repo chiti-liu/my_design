@@ -1,0 +1,229 @@
+C51 COMPILER V9.60.0.0   KEY_PIANO                                                         07/16/2021 10:31:02 PAGE 1   
+
+
+C51 COMPILER V9.60.0.0, COMPILATION OF MODULE KEY_PIANO
+OBJECT MODULE PLACED IN key_piano.OBJ
+COMPILER INVOKED BY: D:\Keil uvision5 C51\C51\BIN\C51.EXE key_piano.c COMPACT OPTIMIZE(8,SPEED) BROWSE DEBUG OBJECTEXTEN
+                    -D
+
+line level    source
+
+   1          #include <reg51.h>
+   2          #include "string.h"
+   3          
+   4          #define uint unsigned int
+   5          #define uchar unsigned char
+   6          
+   7          sbit LSA=P2^2;
+   8          sbit LSB=P2^3;
+   9          sbit LSC=P2^4;
+  10          
+  11          sbit KEY3 = P3^2;//独立按键K3
+  12          sbit KEY4 = P3^3;//独立按键K4
+  13          
+  14          typedef enum {false, true} bool;
+  15          bool Record = false;        //录制标志位
+  16          bool Play = false;          //播放标志位
+  17          
+  18          uint melody[30]={0};       //曲子   
+  19          uint index=0;               //储存的索引
+  20          uchar KeyValue = 20;        //按键值显示-
+  21          
+  22          unsigned int code Freqtab[] = { //定时半周期的初始值
+  23               64021,64103,64260,64400,      //低音3 4 5 6
+  24               64524,64580,64684,64777,      //低音7,中音1 2 3
+  25               64021,64103,64260,64400,      //中音4 5 6 7
+  26               65058,65110,65157,65178};     //高音1 2 3 4
+  27          
+  28          //接受音调
+  29          uint FreqTemp;
+  30               
+  31          //蜂鸣器
+  32          sbit SPEAK = P1^5;
+  33          uchar led[] = {0XFE,0XFD,0XFB,0XF7,0XEF,0XDF,0XBF,0X7F};
+  34          
+  35          //共阴数码管段选表
+  36          uchar  code table[]= { 
+  37          //0             1        2     3     4     5     6     7     8
+  38          0x3F, 0x06, 0x5B, 0x4F, 0x66, 0x6D, 0x7D, 0x07, 0x7F,
+  39          //9     A     B    C     D         E     F              H        L       
+  40          0x6F, 0x77, 0x7C, 0x39, 0x5E, 0x79, 0x71, 0x76, 0x38,
+  41          //n        u      -       熄灭
+  42          0x37, 0x3E, 0x40, 0x00 };
+  43          
+  44          /*====================================
+  45          函数    ： delay(uint z)
+  46          参数    ：z 延时毫秒设定，取值范围0-65535
+  47          返回值  ：无
+  48          描述    ：12T/Fosc11.0592M毫秒级延时
+  49          ====================================*/
+  50          void delay(uint z)
+  51          {
+  52   1              uint x,y;
+  53   1              for(x = z; x > 0; x--)
+  54   1                      for(y = 114; y > 0 ; y--);              
+C51 COMPILER V9.60.0.0   KEY_PIANO                                                         07/16/2021 10:31:02 PAGE 2   
+
+  55   1      } 
+  56          
+  57          /*====================================
+  58          函数    ：key_input()
+  59          参数    ：无
+  60          返回值  ：KeyValue
+  61          描述    ：矩阵键盘扫描
+  62          按键按下KeyValue全局变量值发生相应变化
+  63          ====================================*/
+  64          void key_scan(void)
+  65          {
+  66   1              //4*4矩阵键盘扫描
+  67   1              P1 = 0X0F;//列扫描
+  68   1              if(P1 != 0X0F)//判断按键是否被按下
+  69   1              {
+  70   2                      delay(10);//软件消抖10ms
+  71   2                      if(P1 != 0X0F)//判断按键是否被按下
+  72   2                      {
+  73   3                  P1 = 0X0F;
+  74   3                              switch(P1) //判断那一列被按下
+  75   3                              {
+  76   4                      case 0x07:      KeyValue = 0;   break;//第一列被按下
+  77   4                      case 0x0b:      KeyValue = 1;   break;//第二列被按下 
+  78   4                      case 0x0d:      KeyValue = 2;   break;//第三列被按下                
+  79   4                                      case 0x0e:      KeyValue = 3;   break;//第四列被按下
+  80   4                              }
+  81   3                              P1 = 0XF0;//行扫描
+  82   3                              switch(P1) //判断那一行被按下
+  83   3                              {
+  84   4                      case 0x70:      KeyValue = KeyValue;            break;//第一行被按下 
+  85   4                      case 0xb0:      KeyValue = KeyValue + 4;        break;//第二行被按下
+  86   4                      case 0xd0:      KeyValue = KeyValue + 8;        break;//第三行被按下
+  87   4                                      case 0xe0:      KeyValue = KeyValue + 12;       break;//第四行被按下
+  88   4                              }       
+  89   3                      }
+  90   2              }
+  91   1      }
+  92          
+  93          void Record_Play_Fun()
+  94          {
+  95   1          //一直放直到再按下play键
+  96   1          while(Play == true && Record == false)
+  97   1          {
+  98   2              uint n=0;
+  99   2              uint j=0;
+ 100   2              //如果不停止就一直放
+ 101   2              if(melody[index]!=0)
+ 102   2              n = melody[index++]-1;
+ 103   2              if(melody[index]== 0 )
+ 104   2              {
+ 105   3                  index=0;
+ 106   3                  n = melody[index++]-1;
+ 107   3              }
+ 108   2              TR0 = 1;
+ 109   2              P0 = table[n];          //数码管
+ 110   2              P2 = led[n%8];         //灯
+ 111   2                      FreqTemp = Freqtab[n];//音调
+ 112   2              delay(1000);
+ 113   2              TR0 = 0;
+ 114   2          }
+ 115   1          
+ 116   1          if(Play == false && KeyValue <=16)
+C51 COMPILER V9.60.0.0   KEY_PIANO                                                         07/16/2021 10:31:02 PAGE 3   
+
+ 117   1          {
+ 118   2                  FreqTemp = Freqtab[KeyValue];//音调
+ 119   2                  P1= 0XF0;
+ 120   2                  TR0 = 1;
+ 121   2                  while(P1 != 0XF0)
+ 122   2                  {
+ 123   3                      P0 = table[KeyValue];//松手停下数码管和蜂鸣器
+ 124   3                      P2 = led[KeyValue%8];//灯
+ 125   3                  }
+ 126   2                   if(Record == true)
+ 127   2                       melody[index++] = KeyValue+1; //储存歌曲
+ 128   2              TR0 = 0;
+ 129   2          }
+ 130   1              SPEAK = 1;      //不响
+ 131   1              P0 = 0x00;
+ 132   1              P2 = 0xFF;
+ 133   1              P1 = 0X00;
+ 134   1              KeyValue = 20;
+ 135   1      }
+ 136          /*====================================
+ 137          函数    ：EX0_INT中断函数  比定时器0更高级
+ 138          参数    ：无
+ 139          返回值  ：无
+ 140          描述    ：独立键盘中断扫描
+ 141          EX0_INT:KEY3 播放   EX1_INT:KEY4  录制
+ 142          ====================================*/
+ 143          void EX0_INT(void) interrupt 0
+ 144          {
+ 145   1                  Play = !Play;
+ 146   1      }
+ 147          
+ 148           void EX1_INT(void) interrupt 3
+ 149           {
+ 150   1           Record = !Record;
+ 151   1           if(Record == true)
+ 152   1           memset(melody, 0, sizeof(melody));                          //清空缓存
+ 153   1           if(Record == false)
+ 154   1           {
+ 155   2           melody[index]=0; 
+ 156   2           index =0;                                                  //从头开始
+ 157   2           }
+ 158   1       }
+ 159          /*====================================
+ 160          函数    ：定时器0中断函数T0_INT(void) interrupt 1
+ 161          参数    ：无
+ 162          返回值  ：
+ 163          描述    ：
+ 164          蜂鸣器播放音乐
+ 165          ====================================*/
+ 166          void T0_INT(void) interrupt 1
+ 167          {
+ 168   1           TL0 = FreqTemp;                //载入定时半周期的初始值
+ 169   1           TH0 = FreqTemp >> 8;
+ 170   1           SPEAK = ~SPEAK;                    //发音
+ 171   1      } 
+ 172          
+ 173          void main()
+ 174          {
+ 175   1              TMOD = 0X01;            //定时器T0设置为方式1 
+ 176   1              EA = 1;             //打开总中断 
+ 177   1              ET0 = 1;            //打开定时器T0的中断允许
+ 178   1              TR0 = 0;            //关闭定时器
+C51 COMPILER V9.60.0.0   KEY_PIANO                                                         07/16/2021 10:31:02 PAGE 4   
+
+ 179   1          IT0=1;              //设置EX0_INT跳变沿出发方式（1下降沿,0低点平）
+ 180   1          IT1=1;                 //设置EX1_INT跳变沿出发方式（1下降沿,0低点平）
+ 181   1          EX1=1;                 //打开EX1_INT的中断允许。
+ 182   1          EX0=1;              //打开EX0_INT的中断允许。
+ 183   1          
+ 184   1          LSA=0; //给一个数码管提供位选
+ 185   1              LSB=0;
+ 186   1              LSC=0;//有点小问题，位选没有到位，管脚分配也没问题，不过只是数码管的小问题
+ 187   1          
+ 188   1          SPEAK = 1;  //不响
+ 189   1          P0 = 0x00;//没数
+ 190   1          P2 = 0XFF;//灯不亮
+ 191   1              while(1)
+ 192   1              {
+ 193   2               delay(3);
+ 194   2                       key_scan();//获取矩阵按键值
+ 195   2              Record_Play_Fun();//记录\播放
+ 196   2              }               
+ 197   1      
+ 198   1      }
+ 199          
+
+
+MODULE INFORMATION:   STATIC OVERLAYABLE
+   CODE SIZE        =    714    ----
+   CONSTANT SIZE    =     54    ----
+   XDATA SIZE       =   ----    ----
+   PDATA SIZE       =     75       4
+   DATA SIZE        =   ----    ----
+   IDATA SIZE       =   ----    ----
+   BIT SIZE         =   ----    ----
+END OF MODULE INFORMATION.
+
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  0 ERROR(S)

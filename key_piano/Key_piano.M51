@@ -1,0 +1,272 @@
+BL51 BANKED LINKER/LOCATER V6.22.2.0                                                    07/16/2021  10:31:02  PAGE 1
+
+
+BL51 BANKED LINKER/LOCATER V6.22.2.0, INVOKED BY:
+D:\KEIL UVISION5 C51\C51\BIN\BL51.EXE key_piano.obj TO Key_piano
+
+
+MEMORY MODEL: COMPACT
+
+
+INPUT MODULES INCLUDED:
+  key_piano.obj (KEY_PIANO)
+  D:\KEIL UVISION5 C51\C51\LIB\C51C.LIB (?C_STARTUP)
+  D:\KEIL UVISION5 C51\C51\LIB\C51C.LIB (?C?MEMSET)
+  D:\KEIL UVISION5 C51\C51\LIB\C51C.LIB (?C_INIT)
+
+
+LINK MAP OF MODULE:  Key_piano (KEY_PIANO)
+
+
+            TYPE    BASE      LENGTH    RELOCATION   SEGMENT NAME
+            -----------------------------------------------------
+
+            * * * * * * *   D A T A   M E M O R Y   * * * * * * *
+            REG     0000H     0008H     ABSOLUTE     "REG BANK 0"
+            IDATA   0008H     0001H     UNIT         ?STACK
+
+            * * * * * * *  X D A T A   M E M O R Y  * * * * * * *
+            XDATA   0000H     004BH     INPAGE       ?PD?KEY_PIANO
+            XDATA   004BH     0004H     INPAGE       _PDATA_GROUP_
+
+            * * * * * * *   C O D E   M E M O R Y   * * * * * * *
+            CODE    0000H     0003H     ABSOLUTE     
+            CODE    0003H     0003H     ABSOLUTE     
+                    0006H     0005H                  *** GAP ***
+            CODE    000BH     0003H     ABSOLUTE     
+                    000EH     000DH                  *** GAP ***
+            CODE    001BH     0003H     ABSOLUTE     
+            CODE    001EH     0155H     UNIT         ?PR?RECORD_PLAY_FUN?KEY_PIANO
+            CODE    0173H     008CH     UNIT         ?C_C51STARTUP
+            CODE    01FFH     0076H     UNIT         ?PR?KEY_SCAN?KEY_PIANO
+            CODE    0275H     006FH     UNIT         ?PR?EX1_INT?KEY_PIANO
+            CODE    02E4H     0057H     UNIT         ?C_INITSEG
+            CODE    033BH     0036H     UNIT         ?CO?KEY_PIANO
+            CODE    0371H     002EH     UNIT         ?PR?MAIN?KEY_PIANO
+            CODE    039FH     002CH     UNIT         ?C?LIB_CODE
+            CODE    03CBH     0023H     UNIT         ?PR?EX0_INT?KEY_PIANO
+            CODE    03EEH     0021H     UNIT         ?PR?T0_INT?KEY_PIANO
+            CODE    040FH     001EH     UNIT         ?PR?_DELAY?KEY_PIANO
+
+
+
+OVERLAY MAP OF MODULE:   Key_piano (KEY_PIANO)
+
+
+SEGMENT                                 PDATA_GROUP
+  +--> CALLED SEGMENT                 START    LENGTH
+-----------------------------------------------------
+?C_C51STARTUP                         -----    -----
+  +--> ?PR?MAIN?KEY_PIANO
+  +--> ?C_INITSEG
+BL51 BANKED LINKER/LOCATER V6.22.2.0                                                  07/16/2021  10:31:02  PAGE 2
+
+
+
+?PR?MAIN?KEY_PIANO                    -----    -----
+  +--> ?PR?_DELAY?KEY_PIANO
+  +--> ?PR?KEY_SCAN?KEY_PIANO
+  +--> ?PR?RECORD_PLAY_FUN?KEY_PIANO
+
+?PR?KEY_SCAN?KEY_PIANO                -----    -----
+  +--> ?PR?_DELAY?KEY_PIANO
+
+?PR?RECORD_PLAY_FUN?KEY_PIANO         004BH    0004H
+  +--> ?CO?KEY_PIANO
+  +--> ?PR?_DELAY?KEY_PIANO
+
+
+
+SYMBOL TABLE OF MODULE:  Key_piano (KEY_PIANO)
+
+  VALUE           TYPE          NAME
+  ----------------------------------
+
+  -------         MODULE        KEY_PIANO
+  C:0000H         SYMBOL        _ICE_DUMMY_
+  D:0080H         PUBLIC        P0
+  D:0090H         PUBLIC        P1
+  D:00A0H         PUBLIC        P2
+  D:00B0H         PUBLIC        P3
+  B:00A8H.7       PUBLIC        EA
+  C:035BH         PUBLIC        table
+  X:0000H         PUBLIC        melody
+  C:040FH         PUBLIC        _delay
+  X:003CH         PUBLIC        Play
+  C:03CBH         PUBLIC        EX0_INT
+  C:0275H         PUBLIC        EX1_INT
+  X:003DH         PUBLIC        index
+  C:0371H         PUBLIC        main
+  X:003FH         PUBLIC        FreqTemp
+  X:0041H         PUBLIC        KeyValue
+  D:0089H         PUBLIC        TMOD
+  X:0042H         PUBLIC        led
+  C:033BH         PUBLIC        Freqtab
+  B:00A8H.1       PUBLIC        ET0
+  D:008CH         PUBLIC        TH0
+  B:00A8H.0       PUBLIC        EX0
+  B:0088H.0       PUBLIC        IT0
+  B:00A8H.2       PUBLIC        EX1
+  B:0088H.2       PUBLIC        IT1
+  C:03EEH         PUBLIC        T0_INT
+  D:008AH         PUBLIC        TL0
+  C:01FFH         PUBLIC        key_scan
+  B:0088H.4       PUBLIC        TR0
+  B:00A0H.2       PUBLIC        LSA
+  B:00A0H.3       PUBLIC        LSB
+  X:004AH         PUBLIC        Record
+  B:00A0H.4       PUBLIC        LSC
+  C:001EH         PUBLIC        Record_Play_Fun
+  B:0090H.5       PUBLIC        SPEAK
+  -------         PROC          _DELAY
+BL51 BANKED LINKER/LOCATER V6.22.2.0                                                  07/16/2021  10:31:02  PAGE 3
+
+
+  D:0006H         SYMBOL        z
+  -------         DO            
+  D:0006H         SYMBOL        x
+  D:0004H         SYMBOL        y
+  -------         ENDDO         
+  C:040FH         LINE#         50
+  C:040FH         LINE#         51
+  C:040FH         LINE#         53
+  C:0418H         LINE#         54
+  C:042CH         LINE#         55
+  -------         ENDPROC       _DELAY
+  -------         PROC          KEY_SCAN
+  C:01FFH         LINE#         64
+  C:01FFH         LINE#         65
+  C:01FFH         LINE#         67
+  C:0202H         LINE#         68
+  C:0209H         LINE#         69
+  C:0209H         LINE#         70
+  C:0210H         LINE#         71
+  C:0217H         LINE#         72
+  C:0217H         LINE#         73
+  C:021AH         LINE#         74
+  C:022CH         LINE#         75
+  C:022CH         LINE#         76
+  C:0232H         LINE#         77
+  C:0239H         LINE#         78
+  C:0240H         LINE#         79
+  C:0245H         LINE#         80
+  C:0245H         LINE#         81
+  C:0248H         LINE#         82
+  C:025BH         LINE#         83
+  C:025BH         LINE#         84
+  C:0260H         LINE#         85
+  C:0267H         LINE#         86
+  C:026EH         LINE#         87
+  C:0274H         LINE#         88
+  C:0274H         LINE#         89
+  C:0274H         LINE#         90
+  C:0274H         LINE#         91
+  -------         ENDPROC       KEY_SCAN
+  -------         PROC          RECORD_PLAY_FUN
+  -------         DO            
+  X:004BH         SYMBOL        n
+  X:004DH         SYMBOL        j
+  -------         ENDDO         
+  C:001EH         LINE#         93
+  C:001EH         LINE#         94
+  C:001EH         LINE#         96
+  C:0033H         LINE#         97
+  C:0033H         LINE#         98
+  C:0038H         LINE#         99
+  C:003CH         LINE#         101
+  C:004CH         LINE#         102
+  C:006DH         LINE#         103
+  C:007DH         LINE#         104
+  C:007DH         LINE#         105
+  C:0082H         LINE#         106
+BL51 BANKED LINKER/LOCATER V6.22.2.0                                                  07/16/2021  10:31:02  PAGE 4
+
+
+  C:00A2H         LINE#         107
+  C:00A2H         LINE#         108
+  C:00A4H         LINE#         109
+  C:00B8H         LINE#         110
+  C:00C1H         LINE#         111
+  C:00E2H         LINE#         112
+  C:00E9H         LINE#         113
+  C:00EBH         LINE#         114
+  C:00EEH         LINE#         116
+  C:00FFH         LINE#         117
+  C:00FFH         LINE#         118
+  C:0118H         LINE#         119
+  C:011BH         LINE#         120
+  C:011DH         LINE#         121
+  C:0124H         LINE#         122
+  C:0124H         LINE#         123
+  C:012EH         LINE#         124
+  C:0137H         LINE#         125
+  C:0139H         LINE#         126
+  C:0140H         LINE#         127
+  C:0161H         LINE#         128
+  C:0163H         LINE#         129
+  C:0163H         LINE#         130
+  C:0165H         LINE#         131
+  C:0168H         LINE#         132
+  C:016BH         LINE#         133
+  C:016DH         LINE#         134
+  C:0172H         LINE#         135
+  -------         ENDPROC       RECORD_PLAY_FUN
+  -------         PROC          EX0_INT
+  C:03CBH         LINE#         143
+  C:03D6H         LINE#         145
+  C:03E5H         LINE#         146
+  -------         ENDPROC       EX0_INT
+  -------         PROC          EX1_INT
+  C:0275H         LINE#         148
+  C:0292H         LINE#         150
+  C:02A1H         LINE#         151
+  C:02A5H         LINE#         152
+  C:02B2H         LINE#         153
+  C:02B7H         LINE#         154
+  C:02B7H         LINE#         155
+  C:02C4H         LINE#         156
+  C:02C9H         LINE#         157
+  C:02C9H         LINE#         158
+  -------         ENDPROC       EX1_INT
+  -------         PROC          T0_INT
+  C:03EEH         LINE#         166
+  C:03F9H         LINE#         168
+  C:0401H         LINE#         169
+  C:0404H         LINE#         170
+  C:0406H         LINE#         171
+  -------         ENDPROC       T0_INT
+  -------         PROC          MAIN
+  C:0371H         LINE#         173
+  C:0371H         LINE#         174
+  C:0371H         LINE#         175
+BL51 BANKED LINKER/LOCATER V6.22.2.0                                                  07/16/2021  10:31:02  PAGE 5
+
+
+  C:0374H         LINE#         176
+  C:0376H         LINE#         177
+  C:0378H         LINE#         178
+  C:037AH         LINE#         179
+  C:037CH         LINE#         180
+  C:037EH         LINE#         181
+  C:0380H         LINE#         182
+  C:0382H         LINE#         184
+  C:0384H         LINE#         185
+  C:0386H         LINE#         186
+  C:0388H         LINE#         188
+  C:038AH         LINE#         189
+  C:038DH         LINE#         190
+  C:0390H         LINE#         191
+  C:0390H         LINE#         192
+  C:0390H         LINE#         193
+  C:0397H         LINE#         194
+  C:039AH         LINE#         195
+  C:039DH         LINE#         196
+  -------         ENDPROC       MAIN
+  -------         ENDMOD        KEY_PIANO
+
+  -------         MODULE        ?C?MEMSET
+  C:039FH         PUBLIC        ?C?MEMSET
+  -------         ENDMOD        ?C?MEMSET
+
+Program Size: data=9.0 xdata=79 code=1051
+LINK/LOCATE RUN COMPLETE.  0 WARNING(S),  0 ERROR(S)
