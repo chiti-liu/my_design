@@ -1,0 +1,29 @@
+{
+    "configurations": [
+        {
+            "name": "ESP-IDF",
+            "compilerPath": "D:\\ESP32\\AI_THINKER\\.espressif\\tools\\xtensa-esp32-elf\\esp-2020r3-8.4.0\\xtensa-esp32-elf\\bin\\xtensa-esp32-elf-gcc.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "includePath": [
+                "${config:idf.espIdfPath}/components/**",
+                "${config:idf.espIdfPathWin}/components/**",
+                "D:/ESP32/ESP_IDF/examples/common_components/protocol_examples_common/include/**",
+                "${workspaceFolder}/**",
+                "D:\\ESP32\\leg\\components/**",
+                "D:\\ESP32\\AI_THINKER\\.espressif\\tools\\xtensa-esp32s2-elf\\esp-2020r3-8.4.0\\xtensa-esp32s2-elf\\xtensa-esp32s2-elf\\include\\sys/**"
+            ],
+            "browse": {
+                "path": [
+                    "${config:idf.espIdfPath}/components",
+                    "${config:idf.espIdfPathWin}/components",
+                    "D:/ESP32/ESP_IDF/examples/common_components/protocol_examples_common/include/**",
+                    "${workspaceFolder}",
+                    "D:\\ESP32\\leg\\components/**",
+                    "D:\\ESP32\\AI_THINKER\\.espressif\\tools\\xtensa-esp32s2-elf\\esp-2020r3-8.4.0\\xtensa-esp32s2-elf\\xtensa-esp32s2-elf\\include\\sys/**"
+                ]
+            }
+        }
+    ],
+    "version": 4
+}

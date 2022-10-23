@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<head>
+<meta charset="utf-8">
+<title>wifi config</title>
+</head>
+<body>
+
+<table class="fixed" border="0">
+
+    <col width="1000px" /><col width="500px" />
+        <h3>wifi 密码配置</h3>
+    <div>
+        <label for="name">wifi名称</label>
+        <input type="text" id="wifi" name="car_name" placeholder="ssid">
+        <br>
+        <label for="type">密码</label>
+        <input type="text" id="code" name="car_type" placeholder="password">
+        <br>
+    </div>
+    <br>
+        <button id ="send_wifi" type="button" onclick="send_wifi()">summit</button>
+</table>
+</body>
+<script>
+
+function send_wifi() {
+    alert("function send_wifi");
+    var input_ssid = document.getElementById("wifi").value;
+    var input_code = document.getElementById("code").value;
+    var xhttp = new XMLHttpRequest();
+        xhttp.open("POST", "/wifi_data", true);
+        xhttp.onreadystatechange = function() {
+            if (xhttp.readyState == 4) {
+                if (xhttp.status == 200) {
+                    console.log(xhttp.responseText);
+                } else if (xhttp.status == 0) {
+                    alert("Server closed the connection abruptly!");
+                    location.reload()
+                } else {
+                    alert(xhttp.status + " Error!\n" + xhttp.responseText);
+                    location.reload()
+                }
+            }
+        };
+    var data = {
+        "n":1,
+        "wifi_name":input_ssid,
+        "wifi_code":input_code
+    }
+        xhttp.send(JSON.stringify(data));
+}
+</script>
