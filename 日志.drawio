@@ -52,7 +52,7 @@
         <mxCell id="ki8aC08DYE5dmjoq6XBP-28" value="感觉生病了0&amp;nbsp; &amp;nbsp;感觉正常1&amp;nbsp; &amp;nbsp; 框架感觉良好2 ：0.5&lt;br&gt;亏损了0&amp;nbsp; &amp;nbsp;基本不亏不盈利1&amp;nbsp; &amp;nbsp;盈利或者空仓&amp;nbsp; 2:0&lt;br&gt;没做计划0&amp;nbsp; 还凑合 1&amp;nbsp; &amp;nbsp; 准备的很好&amp;nbsp; 2&amp;nbsp; ：1&lt;br&gt;情绪低落0 正常1&amp;nbsp; 棒极了&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ：1&lt;br&gt;今天很忙0&amp;nbsp; &amp;nbsp;正常1&amp;nbsp; &amp;nbsp; 很闲2&amp;nbsp; &amp;nbsp;：2&lt;br&gt;4分以下不交易&amp;nbsp; &amp;nbsp; &amp;nbsp; 5.6.9.10非常小心交易&amp;nbsp; &amp;nbsp; &amp;nbsp; 7.8可以交易：4.5" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-27">
           <mxGeometry x="140" width="355.5" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-29" value="早盘解读" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-27">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-29" value="今日状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-27">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ki8aC08DYE5dmjoq6XBP-30" value="交易是少数弱势的心理成熟者通过特定的社会心理学形成的统一概率论的行为学活动，天时地利人和缺一不可。真正的交易往往是枯燥且乏味的" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -66,6 +66,60 @@
         </mxCell>
         <mxCell id="ki8aC08DYE5dmjoq6XBP-33" value="社会学，心理学，行为学，概率论，线性代数，统计学，运筹学，博弈论，再加上一些金融学方面的综合学科研究" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1129" y="-38" width="653" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="616" y="60" width="585" height="602" as="geometry" />
+        </mxCell>
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-35" value="20240918" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="641" y="79" width="510" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-36" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="653" y="336" width="495.5" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-37" value="长城电工继续持有（国企重组概念），清仓弘博医药（AI医药概念），建仓森远股份和广生堂&lt;div&gt;理由：长城电工45分之前涨停继续持有，目前看没有历史连到3板的基因，都是三板后断板，保持警惕，弘博压力线太重，先出来看，且不符合模式，买入森远，符合模式，目前小幅度亏损，广生堂冲高回落，继续持仓不动；&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-36">
+          <mxGeometry x="140" width="355.5" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-38" value="今日操作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-36">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-39" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="653" y="421" width="495.5" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-40" value="大盘在早盘先多杀多了一波到2700以下又迅速拉起，目前来看，短期底部已经确认。" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-39">
+          <mxGeometry x="140" width="355.5" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-41" value="大盘情绪" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-39">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-42" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="658" y="139" width="495.5" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-43" value="降息50个基点，基本确定稳了，消费和医药可以关注" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-42">
+          <mxGeometry x="140" width="355.5" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-44" value="早盘解读" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-42">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-45" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="653" y="528" width="495.5" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-46" value="早盘的多杀多很正常，因为昨天的拉升有一部分短线依旧悲观，趋势很难搞，目前只是短期底部，后续没有持续政策，还是会回来的。目前看空单依旧大，比昨日略增，需要警惕明日开盘杀多。" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-45">
+          <mxGeometry x="140" width="355.5" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-47" value="收盘解读" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-45">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-48" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="655.5" y="236" width="495.5" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-49" value="感觉生病了0&amp;nbsp; &amp;nbsp;感觉正常1&amp;nbsp; &amp;nbsp; 框架感觉良好2 ：2&lt;br&gt;昨日亏损了0&amp;nbsp; &amp;nbsp;基本不亏不盈利1&amp;nbsp; &amp;nbsp;盈利或者空仓&amp;nbsp; 2:0&lt;br&gt;没做计划0&amp;nbsp; 还凑合 1&amp;nbsp; &amp;nbsp; 准备的很好&amp;nbsp; 2&amp;nbsp; ：1&lt;br&gt;情绪低落0 正常1&amp;nbsp; 棒极了&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ：1&lt;br&gt;今天很忙0&amp;nbsp; &amp;nbsp;正常1&amp;nbsp; &amp;nbsp; 很闲2&amp;nbsp; &amp;nbsp;：1&lt;br&gt;4分以下不交易&amp;nbsp; &amp;nbsp; &amp;nbsp; 5.6.9.10非常小心交易&amp;nbsp; &amp;nbsp; &amp;nbsp; 7.8可以交易：5" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-48">
+          <mxGeometry x="140" width="355.5" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-50" value="今日状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-48">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-51" value="肩踩脚模型，巩固基础" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1182" y="-143" width="290" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
