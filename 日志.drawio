@@ -1,9 +1,60 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.7">
   <diagram name="第 1 页" id="n0Eh1bdH7xCjfE-SlWxd">
-    <mxGraphModel>
+    <mxGraphModel dx="1779" dy="749" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-59" y="60" width="585" height="602" as="geometry" />
+        </mxCell>
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-2" value="20240918" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-34" y="79" width="510" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-5" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-22" y="336" width="495.5" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-3" value="清仓佳力齐（国产航天工业概念，歼20，低空经济概念），建仓长城电工（国企重组概念），弘博医药（AI医药概念）&lt;div&gt;理由：换操作模式，N操作，不建议左侧，太浪费时间，耗费心态&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-5">
+          <mxGeometry x="140" width="355.5" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-4" value="今日操作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-5">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-6" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-22" y="421" width="495.5" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-7" value="早盘一度在2700点上方试探破2700，拉银行与保险维护指数，下午开盘就破2700，情绪宣泄，但是依旧未放量，下午以地产为首，在2689附件止跌并拉升，但是拉升不急，给了进场时机，到2724附近回落，最后2717收盘" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-6">
+          <mxGeometry x="140" width="355.5" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-8" value="大盘情绪" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-6">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-9" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-17" y="139" width="495.5" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-10" value="清仓佳力齐（国产航天工业概念，歼20，低空经济概念），建仓长城电工（国企重组概念），弘博医药（AI医药概念）&lt;div&gt;理由：换操作模式，N操作，不建议左侧，太浪费时间，耗费心态&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-9">
+          <mxGeometry x="140" width="355.5" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-11" value="早盘解读" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-9">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-20" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-22" y="528" width="495.5" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-21" value="破2700是必然，因为无人想做多，上午开盘只是为了中秋后维护面子工程，这是个人观点，下午来个破位拉升，这是精准控制了，基本可以确认国家队已经开始入局操作了，这个位置可以进场做多，但是只看多到2850，另外看好国企重组概念，AI医疗只能说长线布局，另外就是晚间的美国降息预期，这个可以期待一下，只是降息说实话短期利好，还得等放量" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-20">
+          <mxGeometry x="140" width="355.5" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-22" value="收盘解读" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-20">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-27" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-19.5" y="236" width="495.5" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-28" value="感觉生病了0&amp;nbsp; &amp;nbsp;感觉正常1&amp;nbsp; &amp;nbsp; 框架感觉良好2 ：0.5&lt;br&gt;亏损了0&amp;nbsp; &amp;nbsp;基本不亏不盈利1&amp;nbsp; &amp;nbsp;盈利或者空仓&amp;nbsp; 2:0&lt;br&gt;没做计划0&amp;nbsp; 还凑合 1&amp;nbsp; &amp;nbsp; 准备的很好&amp;nbsp; 2&amp;nbsp; ：1&lt;br&gt;情绪低落0 正常1&amp;nbsp; 棒极了&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ：1&lt;br&gt;今天很忙0&amp;nbsp; &amp;nbsp;正常1&amp;nbsp; &amp;nbsp; 很闲2&amp;nbsp; &amp;nbsp;：2&lt;br&gt;4分以下不交易&amp;nbsp; &amp;nbsp; &amp;nbsp; 5.6.9.10非常小心交易&amp;nbsp; &amp;nbsp; &amp;nbsp; 7.8可以交易：4.5" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-27">
+          <mxGeometry x="140" width="355.5" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-29" value="早盘解读" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-27">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
