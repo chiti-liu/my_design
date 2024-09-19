@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.7">
   <diagram name="第 1 页" id="n0Eh1bdH7xCjfE-SlWxd">
-    <mxGraphModel dx="1779" dy="749" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1779" dy="1149" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -54,6 +54,18 @@
         </mxCell>
         <mxCell id="ki8aC08DYE5dmjoq6XBP-29" value="早盘解读" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-27">
           <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-30" value="交易是少数弱势的心理成熟者通过特定的社会心理学形成的统一概率论的行为学活动，天时地利人和缺一不可。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="318" y="-154" width="708" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-31" value="为什么要空仓，因为一笔正确的单子就算做对了，也可能是蒙对的，可能对你来说下一次还会亏回去，你也不会把这笔赚的提现出来，但是一笔失败的订单可能让你受到生存威胁，情绪受到极大影响。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="323" y="-40" width="742" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-32" value="其实对你自己而言，什么才是最重要的，是心态，更是你的心理内核，是框架，什么样的心理内核才能有配得感，为什么会冲动交易，是认知不足吗？认知不止是对市场的认知，更是对自己心态的认知，适合做什么，适合在什么时候做，急于做什么只会变坏，技术分析和理论分析，同时敬畏市场" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="-38" width="539" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-33" value="社会学，心理学，行为学，概率论，线性代数，统计学，运筹学，博弈论，再加上一些金融学方面的综合学科研究" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1129" y="-38" width="653" height="68" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
