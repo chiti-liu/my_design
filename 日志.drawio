@@ -121,6 +121,48 @@
         <mxCell id="ki8aC08DYE5dmjoq6XBP-51" value="肩踩脚模型，巩固基础" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1182" y="-143" width="290" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-52" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1259" y="65.5" width="585" height="602" as="geometry" />
+        </mxCell>
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-53" value="20240920" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1284" y="84.5" width="510" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-54" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1296" y="341.5" width="495.5" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-56" value="今日操作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-54">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-57" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1296" y="426.5" width="495.5" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-59" value="大盘情绪" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-57">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-60" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1301" y="144.5" width="495.5" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-61" value="英国不降息，但是标普500和中概表现都不错" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-60">
+          <mxGeometry x="140" width="355.5" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-62" value="早盘解读" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-60">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-63" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1296" y="533.5" width="495.5" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-65" value="收盘解读" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-63">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-66" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1298.5" y="241.5" width="495.5" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-67" value="感觉生病了0&amp;nbsp; &amp;nbsp;感觉正常1&amp;nbsp; &amp;nbsp; 框架感觉良好2 ：2&lt;br&gt;昨日亏损了0&amp;nbsp; &amp;nbsp;基本不亏不盈利1&amp;nbsp; &amp;nbsp;盈利或者空仓&amp;nbsp; 2:2&lt;br&gt;没做计划0&amp;nbsp; 还凑合 1&amp;nbsp; &amp;nbsp; 准备的很好&amp;nbsp; 2&amp;nbsp; ：1&lt;br&gt;情绪低落0 正常1&amp;nbsp; 棒极了&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ：1&lt;br&gt;今天很忙0&amp;nbsp; &amp;nbsp;正常1&amp;nbsp; &amp;nbsp; 很闲2&amp;nbsp; &amp;nbsp;：1&lt;br&gt;4分以下不交易&amp;nbsp; &amp;nbsp; &amp;nbsp; 5.6.9.10非常小心交易&amp;nbsp; &amp;nbsp; &amp;nbsp; 7.8可以交易：7" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-66">
+          <mxGeometry x="140" width="355.5" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-68" value="今日状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-66">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
