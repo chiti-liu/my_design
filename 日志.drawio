@@ -1,430 +1,430 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.7.16">
   <diagram name="第 1 页" id="n0Eh1bdH7xCjfE-SlWxd">
-    <mxGraphModel dx="1654" dy="1081" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2019" dy="1149" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-59" y="60" width="585" height="602" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-2" value="20240918" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-2" value="20240918" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-34" y="79" width="510" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-5" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-5" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-22" y="336" width="495.5" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-3" value="清仓佳力齐（国产航天工业概念，歼20，低空经济概念），建仓长城电工（国企重组概念），弘博医药（AI医药概念）&lt;div&gt;理由：换操作模式，N操作，不建议左侧，太浪费时间，耗费心态&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-5">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-3" value="清仓佳力齐（国产航天工业概念，歼20，低空经济概念），建仓长城电工（国企重组概念），弘博医药（AI医药概念）&lt;div&gt;理由：换操作模式，N操作，不建议左侧，太浪费时间，耗费心态&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ki8aC08DYE5dmjoq6XBP-5" vertex="1">
           <mxGeometry x="140" width="355.5" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-4" value="今日操作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-5">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-4" value="今日操作" style="rounded=0;whiteSpace=wrap;html=1;" parent="ki8aC08DYE5dmjoq6XBP-5" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-6" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-6" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-22" y="421" width="495.5" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-7" value="早盘一度在2700点上方试探破2700，拉银行与保险维护指数，下午开盘就破2700，情绪宣泄，但是依旧未放量，下午以地产为首，在2689附件止跌并拉升，但是拉升不急，给了进场时机，到2724附近回落，最后2717收盘" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-6">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-7" value="早盘一度在2700点上方试探破2700，拉银行与保险维护指数，下午开盘就破2700，情绪宣泄，但是依旧未放量，下午以地产为首，在2689附件止跌并拉升，但是拉升不急，给了进场时机，到2724附近回落，最后2717收盘" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ki8aC08DYE5dmjoq6XBP-6" vertex="1">
           <mxGeometry x="140" width="355.5" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-8" value="大盘情绪" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-6">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-8" value="大盘情绪" style="rounded=0;whiteSpace=wrap;html=1;" parent="ki8aC08DYE5dmjoq6XBP-6" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-9" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-9" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-17" y="139" width="495.5" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-10" value="清仓佳力齐（国产航天工业概念，歼20，低空经济概念），建仓长城电工（国企重组概念），弘博医药（AI医药概念）&lt;div&gt;理由：换操作模式，N操作，不建议左侧，太浪费时间，耗费心态&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-9">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-10" value="清仓佳力齐（国产航天工业概念，歼20，低空经济概念），建仓长城电工（国企重组概念），弘博医药（AI医药概念）&lt;div&gt;理由：换操作模式，N操作，不建议左侧，太浪费时间，耗费心态&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ki8aC08DYE5dmjoq6XBP-9" vertex="1">
           <mxGeometry x="140" width="355.5" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-11" value="早盘解读" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-9">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-11" value="早盘解读" style="rounded=0;whiteSpace=wrap;html=1;" parent="ki8aC08DYE5dmjoq6XBP-9" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-20" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-20" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-22" y="528" width="495.5" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-21" value="破2700是必然，因为无人想做多，上午开盘只是为了中秋后维护面子工程，这是个人观点，下午来个破位拉升，这是精准控制了，基本可以确认国家队已经开始入局操作了，这个位置可以进场做多，但是只看多到2850，另外看好国企重组概念，AI医疗只能说长线布局，另外就是晚间的美国降息预期，这个可以期待一下，只是降息说实话短期利好，还得等放量" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-20">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-21" value="破2700是必然，因为无人想做多，上午开盘只是为了中秋后维护面子工程，这是个人观点，下午来个破位拉升，这是精准控制了，基本可以确认国家队已经开始入局操作了，这个位置可以进场做多，但是只看多到2850，另外看好国企重组概念，AI医疗只能说长线布局，另外就是晚间的美国降息预期，这个可以期待一下，只是降息说实话短期利好，还得等放量" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ki8aC08DYE5dmjoq6XBP-20" vertex="1">
           <mxGeometry x="140" width="355.5" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-22" value="收盘解读" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-20">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-22" value="收盘解读" style="rounded=0;whiteSpace=wrap;html=1;" parent="ki8aC08DYE5dmjoq6XBP-20" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-27" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-27" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-19.5" y="236" width="495.5" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-28" value="感觉生病了0&amp;nbsp; &amp;nbsp;感觉正常1&amp;nbsp; &amp;nbsp; 框架感觉良好2 ：0.5&lt;br&gt;亏损了0&amp;nbsp; &amp;nbsp;基本不亏不盈利1&amp;nbsp; &amp;nbsp;盈利或者空仓&amp;nbsp; 2:0&lt;br&gt;没做计划0&amp;nbsp; 还凑合 1&amp;nbsp; &amp;nbsp; 准备的很好&amp;nbsp; 2&amp;nbsp; ：1&lt;br&gt;情绪低落0 正常1&amp;nbsp; 棒极了&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ：1&lt;br&gt;今天很忙0&amp;nbsp; &amp;nbsp;正常1&amp;nbsp; &amp;nbsp; 很闲2&amp;nbsp; &amp;nbsp;：2&lt;br&gt;4分以下不交易&amp;nbsp; &amp;nbsp; &amp;nbsp; 5.6.9.10非常小心交易&amp;nbsp; &amp;nbsp; &amp;nbsp; 7.8可以交易：4.5" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-27">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-28" value="感觉生病了0&amp;nbsp; &amp;nbsp;感觉正常1&amp;nbsp; &amp;nbsp; 框架感觉良好2 ：0.5&lt;br&gt;亏损了0&amp;nbsp; &amp;nbsp;基本不亏不盈利1&amp;nbsp; &amp;nbsp;盈利或者空仓&amp;nbsp; 2:0&lt;br&gt;没做计划0&amp;nbsp; 还凑合 1&amp;nbsp; &amp;nbsp; 准备的很好&amp;nbsp; 2&amp;nbsp; ：1&lt;br&gt;情绪低落0 正常1&amp;nbsp; 棒极了&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ：1&lt;br&gt;今天很忙0&amp;nbsp; &amp;nbsp;正常1&amp;nbsp; &amp;nbsp; 很闲2&amp;nbsp; &amp;nbsp;：2&lt;br&gt;4分以下不交易&amp;nbsp; &amp;nbsp; &amp;nbsp; 5.6.9.10非常小心交易&amp;nbsp; &amp;nbsp; &amp;nbsp; 7.8可以交易：4.5" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ki8aC08DYE5dmjoq6XBP-27" vertex="1">
           <mxGeometry x="140" width="355.5" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-29" value="今日状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-27">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-29" value="今日状态" style="rounded=0;whiteSpace=wrap;html=1;" parent="ki8aC08DYE5dmjoq6XBP-27" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-30" value="交易是少数弱势的心理成熟者通过特定的社会心理学形成的统一概率论的行为学活动，天时地利人和缺一不可。真正的交易往往是枯燥且乏味的" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-30" value="交易是少数弱势的心理成熟者通过特定的社会心理学形成的统一概率论的行为学活动，天时地利人和缺一不可。真正的交易往往是枯燥且乏味的" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="318" y="-154" width="708" height="82" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-31" value="为什么要空仓，因为一笔正确的单子就算做对了，也可能是蒙对的，可能对你来说下一次还会亏回去，你也不会把这笔赚的提现出来，但是一笔失败的订单可能让你受到生存威胁，情绪受到极大影响。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-31" value="为什么要空仓，因为一笔正确的单子就算做对了，也可能是蒙对的，可能对你来说下一次还会亏回去，你也不会把这笔赚的提现出来，但是一笔失败的订单可能让你受到生存威胁，情绪受到极大影响。" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="323" y="-40" width="742" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-32" value="其实对你自己而言，什么才是最重要的，是心态，更是你的心理内核，是框架，什么样的心理内核才能有配得感，为什么会冲动交易，是认知不足吗？认知不止是对市场的认知，更是对自己心态的认知，适合做什么，适合在什么时候做，急于做什么只会变坏，技术分析和理论分析，同时敬畏市场" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-32" value="其实对你自己而言，什么才是最重要的，是心态，更是你的心理内核，是框架，什么样的心理内核才能有配得感，为什么会冲动交易，是认知不足吗？认知不止是对市场的认知，更是对自己心态的认知，适合做什么，适合在什么时候做，急于做什么只会变坏，技术分析和理论分析，同时敬畏市场" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-280" y="-38" width="539" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-33" value="社会学，心理学，行为学，概率论，线性代数，统计学，运筹学，博弈论，再加上一些金融学方面的综合学科研究" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-33" value="社会学，心理学，行为学，概率论，线性代数，统计学，运筹学，博弈论，再加上一些金融学方面的综合学科研究" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1129" y="-38" width="653" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="616" y="60" width="585" height="602" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-35" value="20240919" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-35" value="20240919" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="641" y="79" width="510" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-36" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-36" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="653" y="336" width="495.5" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-37" value="长城电工继续持有（国企重组概念），清仓弘博医药（AI医药概念），建仓森远股份和广生堂&lt;div&gt;理由：长城电工45分之前涨停继续持有，目前看没有历史连到3板的基因，都是三板后断板，保持警惕，弘博压力线太重，先出来看，且不符合模式，买入森远，符合模式，目前小幅度亏损，广生堂冲高回落，继续持仓不动；&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-36">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-37" value="长城电工继续持有（国企重组概念），清仓弘博医药（AI医药概念），建仓森远股份和广生堂&lt;div&gt;理由：长城电工45分之前涨停继续持有，目前看没有历史连到3板的基因，都是三板后断板，保持警惕，弘博压力线太重，先出来看，且不符合模式，买入森远，符合模式，目前小幅度亏损，广生堂冲高回落，继续持仓不动；&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ki8aC08DYE5dmjoq6XBP-36" vertex="1">
           <mxGeometry x="140" width="355.5" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-38" value="今日操作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-36">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-38" value="今日操作" style="rounded=0;whiteSpace=wrap;html=1;" parent="ki8aC08DYE5dmjoq6XBP-36" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-39" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-39" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="653" y="421" width="495.5" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-40" value="大盘在早盘先多杀多了一波到2700以下又迅速拉起，目前来看，短期底部已经确认。" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-39">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-40" value="大盘在早盘先多杀多了一波到2700以下又迅速拉起，目前来看，短期底部已经确认。" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ki8aC08DYE5dmjoq6XBP-39" vertex="1">
           <mxGeometry x="140" width="355.5" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-41" value="大盘情绪" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-39">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-41" value="大盘情绪" style="rounded=0;whiteSpace=wrap;html=1;" parent="ki8aC08DYE5dmjoq6XBP-39" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-42" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-42" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="658" y="139" width="495.5" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-43" value="降息50个基点，基本确定稳了，消费和医药可以关注" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-42">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-43" value="降息50个基点，基本确定稳了，消费和医药可以关注" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ki8aC08DYE5dmjoq6XBP-42" vertex="1">
           <mxGeometry x="140" width="355.5" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-44" value="早盘解读" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-42">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-44" value="早盘解读" style="rounded=0;whiteSpace=wrap;html=1;" parent="ki8aC08DYE5dmjoq6XBP-42" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-45" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-45" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="653" y="528" width="495.5" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-46" value="早盘的多杀多很正常，因为昨天的拉升有一部分短线依旧悲观，趋势很难搞，目前只是短期底部，后续没有持续政策，还是会回来的。目前看空单依旧大，比昨日略增，需要警惕明日开盘杀多。" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-45">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-46" value="早盘的多杀多很正常，因为昨天的拉升有一部分短线依旧悲观，趋势很难搞，目前只是短期底部，后续没有持续政策，还是会回来的。目前看空单依旧大，比昨日略增，需要警惕明日开盘杀多。" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ki8aC08DYE5dmjoq6XBP-45" vertex="1">
           <mxGeometry x="140" width="355.5" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-47" value="收盘解读" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-45">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-47" value="收盘解读" style="rounded=0;whiteSpace=wrap;html=1;" parent="ki8aC08DYE5dmjoq6XBP-45" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-48" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-48" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="655.5" y="236" width="495.5" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-49" value="感觉生病了0&amp;nbsp; &amp;nbsp;感觉正常1&amp;nbsp; &amp;nbsp; 框架感觉良好2 ：2&lt;br&gt;昨日亏损了0&amp;nbsp; &amp;nbsp;基本不亏不盈利1&amp;nbsp; &amp;nbsp;盈利或者空仓&amp;nbsp; 2:0&lt;br&gt;没做计划0&amp;nbsp; 还凑合 1&amp;nbsp; &amp;nbsp; 准备的很好&amp;nbsp; 2&amp;nbsp; ：1&lt;br&gt;情绪低落0 正常1&amp;nbsp; 棒极了&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ：1&lt;br&gt;今天很忙0&amp;nbsp; &amp;nbsp;正常1&amp;nbsp; &amp;nbsp; 很闲2&amp;nbsp; &amp;nbsp;：1&lt;br&gt;4分以下不交易&amp;nbsp; &amp;nbsp; &amp;nbsp; 5.6.9.10非常小心交易&amp;nbsp; &amp;nbsp; &amp;nbsp; 7.8可以交易：5" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-48">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-49" value="感觉生病了0&amp;nbsp; &amp;nbsp;感觉正常1&amp;nbsp; &amp;nbsp; 框架感觉良好2 ：2&lt;br&gt;昨日亏损了0&amp;nbsp; &amp;nbsp;基本不亏不盈利1&amp;nbsp; &amp;nbsp;盈利或者空仓&amp;nbsp; 2:0&lt;br&gt;没做计划0&amp;nbsp; 还凑合 1&amp;nbsp; &amp;nbsp; 准备的很好&amp;nbsp; 2&amp;nbsp; ：1&lt;br&gt;情绪低落0 正常1&amp;nbsp; 棒极了&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ：1&lt;br&gt;今天很忙0&amp;nbsp; &amp;nbsp;正常1&amp;nbsp; &amp;nbsp; 很闲2&amp;nbsp; &amp;nbsp;：1&lt;br&gt;4分以下不交易&amp;nbsp; &amp;nbsp; &amp;nbsp; 5.6.9.10非常小心交易&amp;nbsp; &amp;nbsp; &amp;nbsp; 7.8可以交易：5" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ki8aC08DYE5dmjoq6XBP-48" vertex="1">
           <mxGeometry x="140" width="355.5" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-50" value="今日状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-48">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-50" value="今日状态" style="rounded=0;whiteSpace=wrap;html=1;" parent="ki8aC08DYE5dmjoq6XBP-48" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-51" value="肩踩脚模型，巩固基础" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-51" value="肩踩脚模型，巩固基础" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1182" y="-143" width="290" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-52" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-52" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1259" y="65.5" width="585" height="602" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-53" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;20240920&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-53" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;20240920&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1284" y="84.5" width="510" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-54" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-54" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1296" y="341.5" width="542" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-56" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;今日操作&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-54">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-56" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;今日操作&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="ki8aC08DYE5dmjoq6XBP-54" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-69" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;长城电工放量却没法上涨，尽量格局了，4个点出了，广生堂出货太明显，-3出了，森远高开低走，但是收复了，还是没动，不想动啊，进了硕贝德、共进股份、中能电气，说实话都有一定追高，但是日内分时追高是模式内的，下次多注意压力点就好&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-54">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-69" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;长城电工放量却没法上涨，尽量格局了，4个点出了，广生堂出货太明显，-3出了，森远高开低走，但是收复了，还是没动，不想动啊，进了硕贝德、共进股份、中能电气，说实话都有一定追高，但是日内分时追高是模式内的，下次多注意压力点就好&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ki8aC08DYE5dmjoq6XBP-54" vertex="1">
           <mxGeometry x="134" y="-3.62" width="406" height="67.25" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-57" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-57" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1296" y="426.5" width="495.5" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-59" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;大盘情绪&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-57">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-59" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;大盘情绪&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="ki8aC08DYE5dmjoq6XBP-57" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-70" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;平开跳水再走高，短期悲观情绪个人看已经释放完毕，继续锁仓了。目前看软件开发板块是主流，但是得看资金认可度，接的话得考虑会不会被先手出货。&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-57">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-70" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;平开跳水再走高，短期悲观情绪个人看已经释放完毕，继续锁仓了。目前看软件开发板块是主流，但是得看资金认可度，接的话得考虑会不会被先手出货。&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ki8aC08DYE5dmjoq6XBP-57" vertex="1">
           <mxGeometry x="140" y="6.5" width="349" height="49.5" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-60" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-60" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1301" y="144.5" width="495.5" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-61" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;英国不降息，但是标普500和中概表现都不错&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-60">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-61" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;英国不降息，但是标普500和中概表现都不错&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ki8aC08DYE5dmjoq6XBP-60" vertex="1">
           <mxGeometry x="140" width="355.5" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-62" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;早盘解读&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-60">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-62" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;早盘解读&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="ki8aC08DYE5dmjoq6XBP-60" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-63" value="" style="group;align=left;" vertex="1" connectable="0" parent="1">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-63" value="" style="group;align=left;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1296" y="533.5" width="495.5" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-65" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;收盘解读&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-63">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-65" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;收盘解读&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="ki8aC08DYE5dmjoq6XBP-63" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-71" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;继续锁仓不动了，具体操作周末复盘，模式内一定要注意压力线，不然浪费时间，而且广生堂昨天出了利好，那今天就肯定是出货了，这个现象国内外都一样。&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-63">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-71" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;继续锁仓不动了，具体操作周末复盘，模式内一定要注意压力线，不然浪费时间，而且广生堂昨天出了利好，那今天就肯定是出货了，这个现象国内外都一样。&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ki8aC08DYE5dmjoq6XBP-63" vertex="1">
           <mxGeometry x="140" y="7.5" width="347" height="49.5" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-66" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-66" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1298.5" y="241.5" width="528" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-67" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;感觉生病了0&amp;nbsp; &amp;nbsp;感觉正常1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 框架感觉良好2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ：2&lt;br&gt;昨日亏损了0&amp;nbsp; &amp;nbsp;基本不亏不盈利1&amp;nbsp; &amp;nbsp;盈利或者空仓&amp;nbsp; 2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ：2&lt;br&gt;没做计划0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;还凑合 1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 准备的很好&amp;nbsp; 2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ：1&lt;br&gt;情绪低落0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;正常1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;棒极了&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;：1&lt;br&gt;今天很忙0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;正常1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;很闲2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;：1&lt;br&gt;4分以下不交易&amp;nbsp; &amp;nbsp; &amp;nbsp; 5.6.9.10非常小心交易&amp;nbsp; &amp;nbsp; 7.8可以交易：7&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-66">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-67" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;感觉生病了0&amp;nbsp; &amp;nbsp;感觉正常1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 框架感觉良好2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ：2&lt;br&gt;昨日亏损了0&amp;nbsp; &amp;nbsp;基本不亏不盈利1&amp;nbsp; &amp;nbsp;盈利或者空仓&amp;nbsp; 2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ：2&lt;br&gt;没做计划0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;还凑合 1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 准备的很好&amp;nbsp; 2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ：1&lt;br&gt;情绪低落0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;正常1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;棒极了&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;：1&lt;br&gt;今天很忙0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;正常1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;很闲2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;：1&lt;br&gt;4分以下不交易&amp;nbsp; &amp;nbsp; &amp;nbsp; 5.6.9.10非常小心交易&amp;nbsp; &amp;nbsp; 7.8可以交易：7&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ki8aC08DYE5dmjoq6XBP-66" vertex="1">
           <mxGeometry x="140" y="-7" width="388" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-68" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;今日状态&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-66">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-68" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;今日状态&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="ki8aC08DYE5dmjoq6XBP-66" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-72" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-72" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1884" y="69" width="585" height="602" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-73" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;20240923&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-73" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;20240923&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1909" y="88" width="510" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-74" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-74" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1921" y="345" width="542" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-75" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;今日操作&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-74">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-75" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;今日操作&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="ki8aC08DYE5dmjoq6XBP-74" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-76" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;出硕贝德、共进股份、中能电气，加仓森远股份，建仓安诺其和冠中生态&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-74">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-76" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;出硕贝德、共进股份、中能电气，加仓森远股份，建仓安诺其和冠中生态&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ki8aC08DYE5dmjoq6XBP-74" vertex="1">
           <mxGeometry x="134" y="-3.62" width="406" height="67.25" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-77" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-77" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1921" y="430" width="495.5" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-78" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;大盘情绪&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-77">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-78" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;大盘情绪&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="ki8aC08DYE5dmjoq6XBP-77" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-79" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;大盘冲高回落&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-77">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-79" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;大盘冲高回落&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ki8aC08DYE5dmjoq6XBP-77" vertex="1">
           <mxGeometry x="140" y="6.5" width="349" height="49.5" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-80" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-80" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1926" y="148" width="495.5" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-81" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;目前来看，南天和常山有继续走的理由，保变由于呼家楼的发声，不清楚后续动向，需要注意鸿蒙方向，另外黎巴嫩的新闻对国产替代有一定影响，但持续性存在疑问&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-80">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-81" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;目前来看，南天和常山有继续走的理由，保变由于呼家楼的发声，不清楚后续动向，需要注意鸿蒙方向，另外黎巴嫩的新闻对国产替代有一定影响，但持续性存在疑问&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ki8aC08DYE5dmjoq6XBP-80" vertex="1">
           <mxGeometry x="140" width="355.5" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-82" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;早盘解读&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-80">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-82" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;早盘解读&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="ki8aC08DYE5dmjoq6XBP-80" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-83" value="" style="group;align=left;" vertex="1" connectable="0" parent="1">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-83" value="" style="group;align=left;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1921" y="537" width="495.5" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-84" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;收盘解读&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-83">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-84" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;收盘解读&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="ki8aC08DYE5dmjoq6XBP-83" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-85" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;森远锁仓，老庄很阴险，做好战斗准备&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-83">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-85" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;森远锁仓，老庄很阴险，做好战斗准备&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ki8aC08DYE5dmjoq6XBP-83" vertex="1">
           <mxGeometry x="140" y="7.5" width="347" height="49.5" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-86" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-86" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1923.5" y="245" width="528" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-87" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;感觉生病了0&amp;nbsp; &amp;nbsp;感觉正常1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 框架感觉良好2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ：2&lt;br&gt;昨日亏损了0&amp;nbsp; &amp;nbsp;基本不亏不盈利1&amp;nbsp; &amp;nbsp;盈利或者空仓&amp;nbsp; 2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ：2&lt;br&gt;没做计划0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;还凑合 1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 准备的很好&amp;nbsp; 2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ：1&lt;br&gt;情绪低落0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;正常1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;棒极了&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;：1&lt;br&gt;今天很忙0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;正常1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;很闲2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;：1&lt;br&gt;4分以下不交易&amp;nbsp; &amp;nbsp; &amp;nbsp; 5.6.9.10非常小心交易&amp;nbsp; &amp;nbsp; 7.8可以交易：7&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-86">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-87" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;感觉生病了0&amp;nbsp; &amp;nbsp;感觉正常1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 框架感觉良好2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ：2&lt;br&gt;昨日亏损了0&amp;nbsp; &amp;nbsp;基本不亏不盈利1&amp;nbsp; &amp;nbsp;盈利或者空仓&amp;nbsp; 2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ：2&lt;br&gt;没做计划0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;还凑合 1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 准备的很好&amp;nbsp; 2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ：1&lt;br&gt;情绪低落0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;正常1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;棒极了&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;：1&lt;br&gt;今天很忙0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;正常1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;很闲2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;：1&lt;br&gt;4分以下不交易&amp;nbsp; &amp;nbsp; &amp;nbsp; 5.6.9.10非常小心交易&amp;nbsp; &amp;nbsp; 7.8可以交易：7&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ki8aC08DYE5dmjoq6XBP-86" vertex="1">
           <mxGeometry x="140" y="-7" width="388" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-88" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;今日状态&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-86">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-88" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;今日状态&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="ki8aC08DYE5dmjoq6XBP-86" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-89" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-89" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2515" y="65.5" width="585" height="602" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-90" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;20240924&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-90" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;20240924&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2540" y="84.5" width="510" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-91" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-91" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="2552" y="341.5" width="542" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-92" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;今日操作&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-91">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-92" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;今日操作&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="ki8aC08DYE5dmjoq6XBP-91" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-93" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;出安诺其和冠中生态，加仓森远股份，追高怡球资源，拿ST宇顺&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-91">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-93" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;出安诺其和冠中生态，加仓森远股份，追高怡球资源，拿ST宇顺&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ki8aC08DYE5dmjoq6XBP-91" vertex="1">
           <mxGeometry x="134" y="-3.62" width="406" height="67.25" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-94" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-94" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="2552" y="426.5" width="495.5" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-95" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;大盘情绪&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-94">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-95" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;大盘情绪&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="ki8aC08DYE5dmjoq6XBP-94" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-96" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;大盘今天太强了，强力板块为金融和钢铁，都没有去上。&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-94">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-96" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;大盘今天太强了，强力板块为金融和钢铁，都没有去上。&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ki8aC08DYE5dmjoq6XBP-94" vertex="1">
           <mxGeometry x="140" y="6.5" width="349" height="49.5" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-97" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-97" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="2557" y="144.5" width="495.5" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-98" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;A50期指高开，黎巴嫩战斗感觉会打响&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-97">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-98" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;A50期指高开，黎巴嫩战斗感觉会打响&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ki8aC08DYE5dmjoq6XBP-97" vertex="1">
           <mxGeometry x="140" width="355.5" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-99" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;早盘解读&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-97">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-99" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;早盘解读&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="ki8aC08DYE5dmjoq6XBP-97" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-100" value="" style="group;align=left;" vertex="1" connectable="0" parent="1">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-100" value="" style="group;align=left;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="2552" y="533.5" width="495.5" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-101" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;收盘解读&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-100">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-101" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;收盘解读&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="ki8aC08DYE5dmjoq6XBP-100" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-102" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;早盘安诺其和冠中生态都卖飞了，但是水下加了森远，老庄真的搞心态。央行降息，存量房贷降息，包括国家的存量资金正在路上&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-100">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-102" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;早盘安诺其和冠中生态都卖飞了，但是水下加了森远，老庄真的搞心态。央行降息，存量房贷降息，包括国家的存量资金正在路上&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ki8aC08DYE5dmjoq6XBP-100" vertex="1">
           <mxGeometry x="140" y="7.5" width="347" height="49.5" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-103" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-103" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="2554.5" y="241.5" width="528" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-104" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;感觉生病了0&amp;nbsp; &amp;nbsp;感觉正常1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 框架感觉良好2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ：2&lt;br&gt;昨日亏损了0&amp;nbsp; &amp;nbsp;基本不亏不盈利1&amp;nbsp; &amp;nbsp;盈利或者空仓&amp;nbsp; 2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ：1&lt;br&gt;没做计划0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;还凑合 1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 准备的很好&amp;nbsp; 2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ：1&lt;br&gt;情绪低落0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;正常1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;棒极了&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;：1&lt;br&gt;今天很忙0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;正常1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;很闲2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;：1&lt;br&gt;4分以下不交易&amp;nbsp; &amp;nbsp; &amp;nbsp; 5.6.9.10非常小心交易&amp;nbsp; &amp;nbsp; 7.8可以交易：6&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-103">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-104" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;感觉生病了0&amp;nbsp; &amp;nbsp;感觉正常1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 框架感觉良好2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ：2&lt;br&gt;昨日亏损了0&amp;nbsp; &amp;nbsp;基本不亏不盈利1&amp;nbsp; &amp;nbsp;盈利或者空仓&amp;nbsp; 2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ：1&lt;br&gt;没做计划0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;还凑合 1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 准备的很好&amp;nbsp; 2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ：1&lt;br&gt;情绪低落0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;正常1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;棒极了&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;：1&lt;br&gt;今天很忙0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;正常1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;很闲2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;：1&lt;br&gt;4分以下不交易&amp;nbsp; &amp;nbsp; &amp;nbsp; 5.6.9.10非常小心交易&amp;nbsp; &amp;nbsp; 7.8可以交易：6&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ki8aC08DYE5dmjoq6XBP-103" vertex="1">
           <mxGeometry x="140" y="-7" width="388" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-105" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;今日状态&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-103">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-105" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;今日状态&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="ki8aC08DYE5dmjoq6XBP-103" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-106" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-106" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3157" y="65.5" width="585" height="602" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-107" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;20240925&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-107" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;20240925&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3182" y="84.5" width="510" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-108" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-108" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="3194" y="341.5" width="542" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-109" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;今日操作&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-108">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-109" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;今日操作&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="ki8aC08DYE5dmjoq6XBP-108" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-110" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;出森远和怡球资源了，吃不到鱼尾，但是盘中又是上头，进了慧翰，说真的很无语，本来看到航天机电，执行力还是不够。另外尾盘出了宇顺，太失望了，形状点了香，早盘进了中程，明天计划出了。不是彻底的牛市，不打算现在持股。&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-108">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-110" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;出森远和怡球资源了，吃不到鱼尾，但是盘中又是上头，进了慧翰，说真的很无语，本来看到航天机电，执行力还是不够。另外尾盘出了宇顺，太失望了，形状点了香，早盘进了中程，明天计划出了。不是彻底的牛市，不打算现在持股。&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ki8aC08DYE5dmjoq6XBP-108" vertex="1">
           <mxGeometry x="134" y="-3.62" width="406" height="67.25" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-111" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-111" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="3194" y="426.5" width="495.5" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-112" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;大盘情绪&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-111">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-112" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;大盘情绪&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="ki8aC08DYE5dmjoq6XBP-111" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-113" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;大盘冲高回落，但是成交破了万亿，金融和保险持续，船舶崛起，但是地产已经回落，目前来看救市方向主要还是地产，但是出消息后就意味着出货&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-111">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-113" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;大盘冲高回落，但是成交破了万亿，金融和保险持续，船舶崛起，但是地产已经回落，目前来看救市方向主要还是地产，但是出消息后就意味着出货&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ki8aC08DYE5dmjoq6XBP-111" vertex="1">
           <mxGeometry x="140" y="6.5" width="349" height="49.5" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-114" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-114" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="3199" y="144.5" width="495.5" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-115" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;继续高开，但是预计会高开回落，战斗的导火索依然存在&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-114">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-115" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;继续高开，但是预计会高开回落，战斗的导火索依然存在&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ki8aC08DYE5dmjoq6XBP-114" vertex="1">
           <mxGeometry x="140" width="355.5" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-116" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;早盘解读&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-114">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-116" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;早盘解读&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="ki8aC08DYE5dmjoq6XBP-114" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-117" value="" style="group;align=left;" vertex="1" connectable="0" parent="1">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-117" value="" style="group;align=left;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="3194" y="533.5" width="495.5" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-118" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;收盘解读&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-117">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-118" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;收盘解读&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="ki8aC08DYE5dmjoq6XBP-117" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-119" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;为什么进慧翰，因为救市来看，新股一直破发，肯定有所行动的，但是目前来看，政策还是在路上，只能减仓打迂回战了。&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-117">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-119" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;为什么进慧翰，因为救市来看，新股一直破发，肯定有所行动的，但是目前来看，政策还是在路上，只能减仓打迂回战了。&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ki8aC08DYE5dmjoq6XBP-117" vertex="1">
           <mxGeometry x="140" y="7.5" width="347" height="49.5" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-120" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-120" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="3196.5" y="241.5" width="528" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-121" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;感觉生病了0&amp;nbsp; &amp;nbsp;感觉正常1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 框架感觉良好2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ：1&lt;br&gt;昨日亏损了0&amp;nbsp; &amp;nbsp;基本不亏不盈利1&amp;nbsp; &amp;nbsp;盈利或者空仓&amp;nbsp; 2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ：2&lt;br&gt;没做计划0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;还凑合 1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 准备的很好&amp;nbsp; 2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ：1&lt;br&gt;情绪低落0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;正常1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;棒极了&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;：1&lt;br&gt;今天很忙0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;正常1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;很闲2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;：1&lt;br&gt;4分以下不交易&amp;nbsp; &amp;nbsp; &amp;nbsp; 5.6.9.10非常小心交易&amp;nbsp; &amp;nbsp; 7.8可以交易：6&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-120">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-121" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;感觉生病了0&amp;nbsp; &amp;nbsp;感觉正常1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 框架感觉良好2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ：1&lt;br&gt;昨日亏损了0&amp;nbsp; &amp;nbsp;基本不亏不盈利1&amp;nbsp; &amp;nbsp;盈利或者空仓&amp;nbsp; 2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ：2&lt;br&gt;没做计划0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;还凑合 1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 准备的很好&amp;nbsp; 2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ：1&lt;br&gt;情绪低落0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;正常1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;棒极了&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;：1&lt;br&gt;今天很忙0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;正常1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;很闲2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;：1&lt;br&gt;4分以下不交易&amp;nbsp; &amp;nbsp; &amp;nbsp; 5.6.9.10非常小心交易&amp;nbsp; &amp;nbsp; 7.8可以交易：6&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ki8aC08DYE5dmjoq6XBP-120" vertex="1">
           <mxGeometry x="140" y="-7" width="388" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-122" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;今日状态&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-120">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-122" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;今日状态&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="ki8aC08DYE5dmjoq6XBP-120" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-123" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-123" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3809" y="69" width="585" height="602" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-124" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;20240926&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-124" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;20240926&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3834" y="88" width="510" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-125" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-125" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="3846" y="345" width="542" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-126" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;今日操作&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-125">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-126" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;今日操作&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="ki8aC08DYE5dmjoq6XBP-125" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-127" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;中程-1出了，太失望了，水下-3进了天键，分仓出了慧翰，浪费行情啊，后面进了天元智能和黑芝麻。看好后市。今天自己还是没进大金融，说实话，午盘预判还是太弱了，复盘能力有待加强&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-125">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-127" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;中程-1出了，太失望了，水下-3进了天键，分仓出了慧翰，浪费行情啊，后面进了天元智能和黑芝麻。看好后市。今天自己还是没进大金融，说实话，午盘预判还是太弱了，复盘能力有待加强&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ki8aC08DYE5dmjoq6XBP-125" vertex="1">
           <mxGeometry x="134" y="-3.62" width="406" height="67.25" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-128" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-128" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="3846" y="430" width="495.5" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-129" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;大盘情绪&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-128">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-129" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;大盘情绪&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="ki8aC08DYE5dmjoq6XBP-128" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-130" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;大盘太牛了，直接拉爆空头，昨天看大家都在加空单，没想到今天大金融这么强，看来机构都在做对冲，直接一波最高点收盘3000点。&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-128">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-130" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;大盘太牛了，直接拉爆空头，昨天看大家都在加空单，没想到今天大金融这么强，看来机构都在做对冲，直接一波最高点收盘3000点。&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ki8aC08DYE5dmjoq6XBP-128" vertex="1">
           <mxGeometry x="140" y="6.5" width="349" height="49.5" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-131" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-131" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="3851" y="148" width="495.5" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-132" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;昨日冲高回落是为还券做准备，今天A50开盘冲高，警惕回落&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-131">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-132" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;昨日冲高回落是为还券做准备，今天A50开盘冲高，警惕回落&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ki8aC08DYE5dmjoq6XBP-131" vertex="1">
           <mxGeometry x="140" width="355.5" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-133" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;早盘解读&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-131">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-133" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;早盘解读&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="ki8aC08DYE5dmjoq6XBP-131" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-134" value="" style="group;align=left;" vertex="1" connectable="0" parent="1">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-134" value="" style="group;align=left;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="3846" y="537" width="495.5" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-135" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;收盘解读&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-134">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-135" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;收盘解读&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="ki8aC08DYE5dmjoq6XBP-134" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-136" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;一顿操作猛如虎，真的还不如原本躺着，这周大盘涨了10个点，我才6-7个点，爱尔眼科都直接涨了11个点，这波政策真的给力啊，习大大牛逼。就在明天手里的票能不能给点力了，不过估计明天还是大宗破净股涨的好。&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-134">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-136" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;一顿操作猛如虎，真的还不如原本躺着，这周大盘涨了10个点，我才6-7个点，爱尔眼科都直接涨了11个点，这波政策真的给力啊，习大大牛逼。就在明天手里的票能不能给点力了，不过估计明天还是大宗破净股涨的好。&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ki8aC08DYE5dmjoq6XBP-134" vertex="1">
           <mxGeometry x="140" y="7.5" width="347" height="49.5" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-137" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-137" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="3848.5" y="245" width="528" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-138" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;感觉生病了0&amp;nbsp; &amp;nbsp;感觉正常1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 框架感觉良好2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ：1&lt;br&gt;昨日亏损了0&amp;nbsp; &amp;nbsp;基本不亏不盈利1&amp;nbsp; &amp;nbsp;盈利或者空仓&amp;nbsp; 2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ：1&lt;br&gt;没做计划0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;还凑合 1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 准备的很好&amp;nbsp; 2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ：1&lt;br&gt;情绪低落0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;正常1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;棒极了&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;：2&lt;br&gt;今天很忙0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;正常1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;很闲2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;：1&lt;br&gt;4分以下不交易&amp;nbsp; &amp;nbsp; &amp;nbsp; 5.6.9.10非常小心交易&amp;nbsp; &amp;nbsp; 7.8可以交易：6&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-137">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-138" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;感觉生病了0&amp;nbsp; &amp;nbsp;感觉正常1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 框架感觉良好2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ：1&lt;br&gt;昨日亏损了0&amp;nbsp; &amp;nbsp;基本不亏不盈利1&amp;nbsp; &amp;nbsp;盈利或者空仓&amp;nbsp; 2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ：1&lt;br&gt;没做计划0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;还凑合 1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 准备的很好&amp;nbsp; 2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ：1&lt;br&gt;情绪低落0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;正常1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;棒极了&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;：2&lt;br&gt;今天很忙0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;正常1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;很闲2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;：1&lt;br&gt;4分以下不交易&amp;nbsp; &amp;nbsp; &amp;nbsp; 5.6.9.10非常小心交易&amp;nbsp; &amp;nbsp; 7.8可以交易：6&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ki8aC08DYE5dmjoq6XBP-137" vertex="1">
           <mxGeometry x="140" y="-7" width="388" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-139" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;今日状态&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-137">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-139" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;今日状态&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="ki8aC08DYE5dmjoq6XBP-137" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-140" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-140" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-64.25" y="771" width="585" height="602" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-141" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;20240927&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-141" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;20240927&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-39.25" y="790" width="510" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-142" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-142" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-27.25" y="1047" width="542" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-143" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;今日操作&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-142">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-143" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;今日操作&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="ki8aC08DYE5dmjoq6XBP-142" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-144" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;中程-1出了，太失望了，水下-3进了天键，分仓出了慧翰，浪费行情啊，后面进了天元智能和黑芝麻。看好后市。今天自己还是没进大金融，说实话，午盘预判还是太弱了，复盘能力有待加强&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-142">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-144" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;进了全面平铺，早盘又出了，进了君正jt，bj君正，天源迪科，昨天的只留了黑芝麻，&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ki8aC08DYE5dmjoq6XBP-142" vertex="1">
           <mxGeometry x="134" y="-3.62" width="406" height="67.25" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-145" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-145" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-27.25" y="1132" width="495.5" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-146" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;大盘情绪&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-145">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-146" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;大盘情绪&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="ki8aC08DYE5dmjoq6XBP-145" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-147" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;大盘太牛了，直接拉爆空头，昨天看大家都在加空单，没想到今天大金融这么强，看来机构都在做对冲，直接一波最高点收盘3000点。&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-145">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-147" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;大盘太牛了，直接拉爆空头，昨天看大家都在加空单，没想到今天大金融这么强，看来机构都在做对冲，直接一波最高点收盘3000点。&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ki8aC08DYE5dmjoq6XBP-145" vertex="1">
           <mxGeometry x="140" y="6.5" width="349" height="49.5" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-148" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-148" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-22.25" y="850" width="495.5" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-149" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;A50和海外冲高太猛了，今天新转入一笔资金，但是感觉大家都有点被冲昏了头，现在也不好买什么，老股民都在恐高，那么这波该怎么继续接力呢，谁来接？踏空资金吗？能不能放出持续成交量，如果能，走慢牛还是快牛？&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-148">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-149" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;A50和海外冲高太猛了，今天新转入一笔资金，但是感觉大家都有点被冲昏了头，现在也不好买什么，老股民都在恐高，那么这波该怎么继续接力呢，谁来接？踏空资金吗？能不能放出持续成交量，如果能，走慢牛还是快牛？&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ki8aC08DYE5dmjoq6XBP-148" vertex="1">
           <mxGeometry x="140" width="355.5" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-150" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;早盘解读&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-148">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-150" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;早盘解读&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="ki8aC08DYE5dmjoq6XBP-148" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-151" value="" style="group;align=left;" vertex="1" connectable="0" parent="1">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-151" value="" style="group;align=left;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-27.25" y="1239" width="495.5" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-152" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;收盘解读&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-151">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-152" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;收盘解读&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="ki8aC08DYE5dmjoq6XBP-151" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-153" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;一顿操作猛如虎，真的还不如原本躺着，这周大盘涨了10个点，我才6-7个点，爱尔眼科都直接涨了11个点，这波政策真的给力啊，习大大牛逼。就在明天手里的票能不能给点力了，不过估计明天还是大宗破净股涨的好。&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-151">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-153" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;一顿操作猛如虎，真的还不如原本躺着，这周大盘涨了10个点，我才6-7个点，爱尔眼科都直接涨了11个点，这波政策真的给力啊，习大大牛逼。就在明天手里的票能不能给点力了，不过估计明天还是大宗破净股涨的好。&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ki8aC08DYE5dmjoq6XBP-151" vertex="1">
           <mxGeometry x="140" y="7.5" width="347" height="49.5" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-154" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-154" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-24.75" y="947" width="528" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-155" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;感觉生病了0&amp;nbsp; &amp;nbsp;感觉正常1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 框架感觉良好2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ：1&lt;br&gt;昨日亏损了0&amp;nbsp; &amp;nbsp;基本不亏不盈利1&amp;nbsp; &amp;nbsp;盈利或者空仓&amp;nbsp; 2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ：2&lt;br&gt;没做计划0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;还凑合 1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 准备的很好&amp;nbsp; 2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ：1&lt;br&gt;情绪低落0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;正常1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;棒极了&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;：2&lt;br&gt;今天很忙0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;正常1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;很闲2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;：1&lt;br&gt;4分以下不交易&amp;nbsp; &amp;nbsp; &amp;nbsp; 5.6.9.10非常小心交易&amp;nbsp; &amp;nbsp; 7.8可以交易：7&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-154">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-155" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;感觉生病了0&amp;nbsp; &amp;nbsp;感觉正常1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 框架感觉良好2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ：1&lt;br&gt;昨日亏损了0&amp;nbsp; &amp;nbsp;基本不亏不盈利1&amp;nbsp; &amp;nbsp;盈利或者空仓&amp;nbsp; 2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ：2&lt;br&gt;没做计划0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;还凑合 1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 准备的很好&amp;nbsp; 2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ：1&lt;br&gt;情绪低落0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;正常1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;棒极了&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;：2&lt;br&gt;今天很忙0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;正常1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;很闲2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;：1&lt;br&gt;4分以下不交易&amp;nbsp; &amp;nbsp; &amp;nbsp; 5.6.9.10非常小心交易&amp;nbsp; &amp;nbsp; 7.8可以交易：7&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ki8aC08DYE5dmjoq6XBP-154" vertex="1">
           <mxGeometry x="140" y="-7" width="388" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-156" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;今日状态&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ki8aC08DYE5dmjoq6XBP-154">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-156" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;今日状态&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="ki8aC08DYE5dmjoq6XBP-154" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
       </root>
