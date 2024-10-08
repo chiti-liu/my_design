@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.7.16">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="n0Eh1bdH7xCjfE-SlWxd">
     <mxGraphModel dx="2019" dy="1149" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -490,7 +490,7 @@
         <mxCell id="ls-QMv8sTmvr9tlgIPBf-21" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;今日操作&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="ls-QMv8sTmvr9tlgIPBf-20" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ls-QMv8sTmvr9tlgIPBf-22" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;锁仓，加仓世纪恒通&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ls-QMv8sTmvr9tlgIPBf-20" vertex="1">
+        <mxCell id="ls-QMv8sTmvr9tlgIPBf-22" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;早盘涨停排板优博讯直接进去了，记得之前计划是排的世纪恒通，以后应该要充分了解自己的标的。今天全盘止盈，被天源迪科洗出来了，尾盘进到了六成仓位，分批进了航天电子、恒宝股份、奥普光电（打板）和丝路视觉（只买到1个）&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ls-QMv8sTmvr9tlgIPBf-20" vertex="1">
           <mxGeometry x="134" y="-3.62" width="406" height="67.25" as="geometry" />
         </mxCell>
         <mxCell id="ls-QMv8sTmvr9tlgIPBf-23" value="" style="group" parent="1" vertex="1" connectable="0">
@@ -499,7 +499,7 @@
         <mxCell id="ls-QMv8sTmvr9tlgIPBf-24" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;大盘情绪&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="ls-QMv8sTmvr9tlgIPBf-23" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ls-QMv8sTmvr9tlgIPBf-25" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;早盘冲高回落让大部分老股民都下车了，尾盘甚至跳水后又回流，直接吓走了大部分人，而且接下来是十一国庆七天假期，将会酝酿一波大的。&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ls-QMv8sTmvr9tlgIPBf-23" vertex="1">
+        <mxCell id="ls-QMv8sTmvr9tlgIPBf-25" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;早盘直接涨停开盘，应该做思考的，如果都直接涨停了，那么哪里来的量能呢。放量到3.5W，直接放量收了个黄昏之星&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ls-QMv8sTmvr9tlgIPBf-23" vertex="1">
           <mxGeometry x="140" y="6.5" width="349" height="49.5" as="geometry" />
         </mxCell>
         <mxCell id="ls-QMv8sTmvr9tlgIPBf-26" value="" style="group" parent="1" vertex="1" connectable="0">
@@ -517,7 +517,7 @@
         <mxCell id="ls-QMv8sTmvr9tlgIPBf-30" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;收盘解读&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="ls-QMv8sTmvr9tlgIPBf-29" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ls-QMv8sTmvr9tlgIPBf-31" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;这波操作，下车北京jz真的不应该，强者恒强，只有不断地完善交易系统，才能更强。&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ls-QMv8sTmvr9tlgIPBf-29" vertex="1">
+        <mxCell id="ls-QMv8sTmvr9tlgIPBf-31" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;今天的操作明显配不上这个8分的评分，操作上有很大瑕疵，记住，一定要有量能才能走远，今天这个量，明天又会有一波恐慌，虽然明天新股民就能交易了，但是整体还待考量。&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ls-QMv8sTmvr9tlgIPBf-29" vertex="1">
           <mxGeometry x="140" y="7.5" width="347" height="49.5" as="geometry" />
         </mxCell>
         <mxCell id="ls-QMv8sTmvr9tlgIPBf-32" value="" style="group" parent="1" vertex="1" connectable="0">
