@@ -685,57 +685,6 @@
         <mxCell id="pyvyGPmy6BrEsvj7BdDV-17" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;今日状态&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="pyvyGPmy6BrEsvj7BdDV-15" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fE_pfwpOkp0Ndhyn4sD_-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-61.75" y="1417" width="585" height="602" as="geometry" />
-        </mxCell>
-        <mxCell id="fE_pfwpOkp0Ndhyn4sD_-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;20241014&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-36.75" y="1436" width="510" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="fE_pfwpOkp0Ndhyn4sD_-3" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-24.75" y="1693" width="542" height="71" as="geometry" />
-        </mxCell>
-        <mxCell id="fE_pfwpOkp0Ndhyn4sD_-4" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;今日操作&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fE_pfwpOkp0Ndhyn4sD_-3">
-          <mxGeometry width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="fE_pfwpOkp0Ndhyn4sD_-5" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;进了全面平铺，早盘又出了，进了君正jt，bj君正，天源迪科，璞泰来，格林美，九洲jt,昨天的只留了黑芝麻，说实话，累的要死，全面平铺就是没敢进金融，但是应该进金融的，因为平铺的前提是全面牛市，那么就得有金融。&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fE_pfwpOkp0Ndhyn4sD_-3">
-          <mxGeometry x="134" y="-3.62" width="406" height="67.25" as="geometry" />
-        </mxCell>
-        <mxCell id="fE_pfwpOkp0Ndhyn4sD_-6" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-24.75" y="1778" width="495.5" height="61" as="geometry" />
-        </mxCell>
-        <mxCell id="fE_pfwpOkp0Ndhyn4sD_-7" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;大盘情绪&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fE_pfwpOkp0Ndhyn4sD_-6">
-          <mxGeometry width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="fE_pfwpOkp0Ndhyn4sD_-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;这波成交量真的放出来了，银之杰直接翻倍打出赚钱效应，双成药业打出连板高度，新股无线打出盘面情绪，如果不是新股无线的回落，那么下午可能接着嗨，不过早盘上证崩了就很难理解，也不去过多猜测，看周末发酵了。&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fE_pfwpOkp0Ndhyn4sD_-6">
-          <mxGeometry x="140" y="6.5" width="349" height="49.5" as="geometry" />
-        </mxCell>
-        <mxCell id="fE_pfwpOkp0Ndhyn4sD_-9" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-19.75" y="1496" width="495.5" height="61" as="geometry" />
-        </mxCell>
-        <mxCell id="fE_pfwpOkp0Ndhyn4sD_-10" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;国外战争局势紧张，化债其实并无什么特别利好，感觉不到有什么影响，有种空喊口号的感觉。&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fE_pfwpOkp0Ndhyn4sD_-9">
-          <mxGeometry x="140" width="355.5" height="61" as="geometry" />
-        </mxCell>
-        <mxCell id="fE_pfwpOkp0Ndhyn4sD_-11" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;早盘解读&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fE_pfwpOkp0Ndhyn4sD_-9">
-          <mxGeometry width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="fE_pfwpOkp0Ndhyn4sD_-12" value="" style="group;align=left;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-24.75" y="1885" width="495.5" height="61" as="geometry" />
-        </mxCell>
-        <mxCell id="fE_pfwpOkp0Ndhyn4sD_-13" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;收盘解读&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fE_pfwpOkp0Ndhyn4sD_-12">
-          <mxGeometry width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="fE_pfwpOkp0Ndhyn4sD_-14" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;这波，真的错过了很多大牛股，不过相比年初的踏空，已经好了很多了，年初那波踏空直接少吃了50个点，接下来四个月越干越抑郁，不过挺多来了，且看成交量做下一步措施。&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fE_pfwpOkp0Ndhyn4sD_-12">
-          <mxGeometry x="140" y="7.5" width="347" height="49.5" as="geometry" />
-        </mxCell>
-        <mxCell id="fE_pfwpOkp0Ndhyn4sD_-15" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-22.25" y="1593" width="528" height="61" as="geometry" />
-        </mxCell>
-        <mxCell id="fE_pfwpOkp0Ndhyn4sD_-16" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;感觉生病了0&amp;nbsp; &amp;nbsp;感觉正常1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 框架感觉良好2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ：1&lt;br&gt;昨日亏损了0&amp;nbsp; &amp;nbsp;基本不亏不盈利1&amp;nbsp; &amp;nbsp;盈利或者空仓&amp;nbsp; 2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ：0&lt;br&gt;没做计划0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;还凑合 1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 准备的很好&amp;nbsp; 2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ：1&lt;br&gt;情绪低落0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;正常1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;棒极了&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;：1&lt;br&gt;今天很忙0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;正常1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;很闲2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;：1&lt;br&gt;4分以下不交易&amp;nbsp; &amp;nbsp; &amp;nbsp; 5.6.9.10非常小心交易&amp;nbsp; &amp;nbsp; 7.8可以交易：4&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fE_pfwpOkp0Ndhyn4sD_-15">
-          <mxGeometry x="140" y="-7" width="388" height="68" as="geometry" />
-        </mxCell>
-        <mxCell id="fE_pfwpOkp0Ndhyn4sD_-17" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;今日状态&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="fE_pfwpOkp0Ndhyn4sD_-15">
-          <mxGeometry width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
