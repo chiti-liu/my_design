@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.7.17">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="n0Eh1bdH7xCjfE-SlWxd">
-    <mxGraphModel dx="2019" dy="1149" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1595" dy="1876" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,10 +55,13 @@
         <mxCell id="ki8aC08DYE5dmjoq6XBP-29" value="今日状态" style="rounded=0;whiteSpace=wrap;html=1;" parent="ki8aC08DYE5dmjoq6XBP-27" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-30" value="交易是少数弱势的心理成熟者通过特定的社会心理学形成的统一概率论的行为学活动，天时地利人和缺一不可。真正的交易往往是枯燥且乏味的" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="318" y="-154" width="708" height="82" as="geometry" />
+        <mxCell id="G4wzmdHP9MwDh-6Ic8Ol-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ki8aC08DYE5dmjoq6XBP-30" target="G4wzmdHP9MwDh-6Ic8Ol-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-31" value="为什么要空仓，因为一笔正确的单子就算做对了，也可能是蒙对的，可能对你来说下一次还会亏回去，你也不会把这笔赚的提现出来，但是一笔失败的订单可能让你受到生存威胁，情绪受到极大影响。" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-30" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;交易是少数弱势的心理成熟者通过特定的社会心理学形成的统一概率论的行为学活动，天时地利人和缺一不可。真正的交易往往是枯燥且乏味的&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="318" y="-154" width="852" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-31" value="为什么要&lt;font style=&quot;font-size: 24px;&quot;&gt;空仓&lt;/font&gt;，因为一笔正确的单子就算做对了，也可能是蒙对的，可能对你来说&lt;font style=&quot;font-size: 24px;&quot;&gt;下一次还会亏回去&lt;/font&gt;，你也不会把这笔赚的提现出来，但是一笔失败的订单可能&lt;font style=&quot;font-size: 24px;&quot;&gt;让你受到生存威胁&lt;/font&gt;，情绪受到极大影响。" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="323" y="-40" width="742" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ki8aC08DYE5dmjoq6XBP-32" value="其实对你自己而言，什么才是最重要的，是心态，更是你的心理内核，是框架，什么样的心理内核才能有配得感，为什么会冲动交易，是认知不足吗？认知不止是对市场的认知，更是对自己心态的认知，适合做什么，适合在什么时候做，急于做什么只会变坏，技术分析和理论分析，同时敬畏市场" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -118,8 +121,11 @@
         <mxCell id="ki8aC08DYE5dmjoq6XBP-50" value="今日状态" style="rounded=0;whiteSpace=wrap;html=1;" parent="ki8aC08DYE5dmjoq6XBP-48" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ki8aC08DYE5dmjoq6XBP-51" value="肩踩脚模型，巩固基础" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1182" y="-143" width="290" height="60" as="geometry" />
+        <mxCell id="G4wzmdHP9MwDh-6Ic8Ol-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ki8aC08DYE5dmjoq6XBP-51" target="G4wzmdHP9MwDh-6Ic8Ol-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ki8aC08DYE5dmjoq6XBP-51" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;肩踩脚模型，巩固基础&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1151" y="-389" width="290" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ki8aC08DYE5dmjoq6XBP-52" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1259" y="65.5" width="585" height="602" as="geometry" />
@@ -684,6 +690,54 @@
         </mxCell>
         <mxCell id="pyvyGPmy6BrEsvj7BdDV-17" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;今日状态&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="pyvyGPmy6BrEsvj7BdDV-15" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G4wzmdHP9MwDh-6Ic8Ol-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G4wzmdHP9MwDh-6Ic8Ol-1" target="G4wzmdHP9MwDh-6Ic8Ol-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G4wzmdHP9MwDh-6Ic8Ol-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;注重效率，为什么要做肩踩脚模型，因为需要注重效率。&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1512" y="-596" width="509" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="G4wzmdHP9MwDh-6Ic8Ol-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G4wzmdHP9MwDh-6Ic8Ol-2" target="G4wzmdHP9MwDh-6Ic8Ol-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G4wzmdHP9MwDh-6Ic8Ol-2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;图形：量能放量，最近一个月有三个涨停，辨识度高可放宽至1个，视情况而定；回踩缩量，踩回支撑。&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1515.5" y="-402" width="502.5" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="G4wzmdHP9MwDh-6Ic8Ol-4" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;风险：可能后续支撑破位慢慢杀，如果是狠杀反而不用怕，怕的是狠杀后缓杀，这样就直接走，因为你的选择已经错了。&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1515.5" y="-260" width="501.5" height="127" as="geometry" />
+        </mxCell>
+        <mxCell id="G4wzmdHP9MwDh-6Ic8Ol-6" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;辨识度打板，直接锁定风口龙头&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1126" y="-896" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G4wzmdHP9MwDh-6Ic8Ol-10" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1472" y="-528" width="20" height="322" as="geometry" />
+        </mxCell>
+        <mxCell id="G4wzmdHP9MwDh-6Ic8Ol-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G4wzmdHP9MwDh-6Ic8Ol-12" target="G4wzmdHP9MwDh-6Ic8Ol-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G4wzmdHP9MwDh-6Ic8Ol-12" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;风险控仓，为什么要做龙头，因为承接足够，选辨识度品种，大家第一时间就能想到。&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1521" y="-1097.5" width="509" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="G4wzmdHP9MwDh-6Ic8Ol-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G4wzmdHP9MwDh-6Ic8Ol-14" target="G4wzmdHP9MwDh-6Ic8Ol-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G4wzmdHP9MwDh-6Ic8Ol-14" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;图形：建立在前一图形基础，市场有成交量逐步放温，朦胧中走出，往最小阻力位方向运动&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1524.5" y="-903.5" width="502.5" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="G4wzmdHP9MwDh-6Ic8Ol-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G4wzmdHP9MwDh-6Ic8Ol-15" target="G4wzmdHP9MwDh-6Ic8Ol-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G4wzmdHP9MwDh-6Ic8Ol-15" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;风险：一旦放量阴直接走，除非后续能走出九板走出高度才能考虑进来&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1524.5" y="-761.5" width="501.5" height="127" as="geometry" />
+        </mxCell>
+        <mxCell id="G4wzmdHP9MwDh-6Ic8Ol-16" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1481" y="-1029.5" width="20" height="322" as="geometry" />
+        </mxCell>
+        <mxCell id="G4wzmdHP9MwDh-6Ic8Ol-18" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;警惕：假突破，尾盘杀跌第二天开盘直接走，没有承接。没有承接的突然拉升都是为了套人，就算是龙头也是这样，吃独食的行为被所有人唾弃。&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2106" y="-761.5" width="501.5" height="127" as="geometry" />
+        </mxCell>
+        <mxCell id="G4wzmdHP9MwDh-6Ic8Ol-20" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;交易是行为，弱势是对自己的定位，心理成熟是理想的悲观状态，特定社会心理学是有目的社会阴谋论的手段，是实现方式；统一概率论标志着无法像赌徒一样全仓锁定赌博，注意分仓，最起码也是半仓轮动，且需要即时为自己的错误行为买单，最重要的是不能贪，做模式内的操作，想不通就空仓，错了就空仓，想清楚再开仓。&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250.5" y="-320" width="987" height="124" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
